@@ -1,0 +1,8 @@
+{
+  "label": "UI Related Part",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "In this chapter we will discus about the App initialization, Activity initialization, UI related code and above all the business logic code for the app."
+  }
+}

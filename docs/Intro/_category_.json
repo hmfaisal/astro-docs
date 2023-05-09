@@ -1,0 +1,8 @@
+{
+  "label": "Intro",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "This demo app allow users to browse a list of astronauts, their information, and a detail view of their bio and flights. In this extended documentation we will cover the project folder structure, architecture, and gone through every code file to discuss about what this code line is doing."
+  }
+}
